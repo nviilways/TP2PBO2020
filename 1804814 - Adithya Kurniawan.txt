@@ -1,0 +1,9 @@
+Saya Adithya Kurniawan mengerjakan evaluasi TP2
+dalam mata kuliah PBO
+untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
+Fitur :
+- Sesuai spesifikasi.
+
+Catatan :
+- Buka sebagai project pada IDE Netbeans.
